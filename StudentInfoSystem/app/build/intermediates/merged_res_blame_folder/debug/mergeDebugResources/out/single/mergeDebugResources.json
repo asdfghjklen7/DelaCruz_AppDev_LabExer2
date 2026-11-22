@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.studentinfosystem.app-debug-31:\\layout_activity_student_info.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.studentinfosystem.app-main-33:\\layout\\activity_student_info.xml"
+    },
+    {
+        "merged": "com.example.studentinfosystem.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.studentinfosystem.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.studentinfosystem.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.studentinfosystem.app-main-33:\\layout\\activity_login.xml"
+    }
+]
